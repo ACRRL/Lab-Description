@@ -25,7 +25,7 @@ Robotic:
 
 # Lab-Contact-Information
 *URL:
-  https://sites.google.com/view/acrrl/
+  https://sites.google.com/view/acrrl/ /n
   https://www.acrrl.ir/
   
 *Local Ftp address:
